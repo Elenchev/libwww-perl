@@ -198,7 +198,7 @@ corresponds to the I<code>.
 =item *
 
 B<headers> contains additional information about the
-response and describe the content.
+response and describes the content.
 
 =item *
 
